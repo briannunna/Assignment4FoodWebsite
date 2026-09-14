@@ -1,0 +1,10 @@
+header      {width: 1000px; height: 100px; background-color: 629779; border-top-left-radius: 5px; border-top-right-radius: 5px; padding: 20px; margin-bottom: -21px;}
+nav         {width: 1000px; height: 50px; background-color: 286241; padding: 10px;}
+main        {width: 1040px; height: 1050px; background-color: 06351A;}
+article     {width: 473px; height: 200px; background-color: 3F7B59; float: left; margin: 15px; padding: 5px; border-radius: 5px; border-style:double; opacity: .70; line-height: 1.3;}
+aside       {width: 473px; height: 200px; background-color: 3F7B59; float: right; margin: 15px; padding: 5px; border-radius: 5px; border-style:double; opacity: .70; line-height: 1.2;}
+
+nav a:link      {border-radius: 4px; background-color:597786; text-decoration: none; color: black; padding-left: 5pt; padding-right: 5pt;}
+nav a:visited   {border-radius: 4px; background-color:07222F; text-decoration: none; color: gray; padding-left: 5pt; padding-right: 5pt;}
+nav a:active    {border-radius: 4px; background-color:597786; text-decoration: none; color: 07222F; padding-left: 5pt; padding-right: 5pt;}
+nav a:hover     {border-radius: 4px; background-color:black; text-decoration: none; color: 597786; padding-left: 5pt; padding-right: 5pt;}
